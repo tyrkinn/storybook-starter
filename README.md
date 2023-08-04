@@ -9,7 +9,21 @@ This starter provides a minimal setup to get Storybook working with typescript a
 - [x] Eslint Config
 - [x] StoryBook
 
-# Runnging Storybook
+# Running App
+
+## Dev mode
+
+```bash
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+# Running Storybook
 
 ```bash
 $ npm run storybook
