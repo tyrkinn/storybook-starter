@@ -9,6 +9,14 @@ This starter provides a minimal setup to get Storybook working with typescript a
 - [x] Eslint Config
 - [x] StoryBook
 
+# Using starter
+
+```bash
+$ npx degit tyrkinn/storybook-starter project-name
+```
+
+Than fix the `name` field in `package.json`
+
 # Running App
 
 ## Dev mode
