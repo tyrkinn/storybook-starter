@@ -2,6 +2,13 @@
 
 This starter provides a minimal setup to get Storybook working with typescript and Vite.
 
+
+# Features
+
+- [x] Path Aliases
+- [x] Eslint Config
+- [x] StoryBook
+
 # Runnging Storybook
 
 ```bash
